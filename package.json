@@ -1,0 +1,14 @@
+{
+  "name": "po-theme-tryblue",
+  "version": "1.0.12",
+  "author": "",
+  "description": "Po Custom Theme - po-theme-tryblue",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "build": "po-theme build"
+  },
+  "devDependencies": {
+    "@portinari/style": "^1.11.0"
+  }
+}
