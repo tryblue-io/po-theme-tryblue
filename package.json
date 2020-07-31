@@ -10,5 +10,5 @@
   },
   "devDependencies": {
     "@portinari/style": "^1.11.0"
-  },
+  }
 }
