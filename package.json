@@ -1,7 +1,7 @@
 {
   "name": "po-theme-tryblue",
   "version": "1.0.12",
-  "author": "",
+  "author": "Fernando de Abreu Pereira",
   "description": "Po Custom Theme - po-theme-tryblue",
   "repository": {},
   "license": "MIT",
@@ -10,5 +10,5 @@
   },
   "devDependencies": {
     "@portinari/style": "^1.11.0"
-  }
+  },
 }
